@@ -17,37 +17,18 @@ textarea {
 @media screen and (min-width: 1280px) {
   .is-1-column .container,
   .is-2-column .container {
-    max-width: 960px;
-    width: 960px;
+    max-width: 1152px;
+    width: 1152px;
   }
 }
 @media screen and (min-width: 1472px) {
   .is-2-column .container {
-    max-width: 1152px;
-    width: 1152px;
+    max-width: 1344px;
+    width: 1344px;
   }
   .is-1-column .container {
     max-width: 960px;
     width: 960px;
-  }
-}
-@media screen and (max-width: 768px) {
-  .section {
-    padding: 1.5rem 1rem;
-  }
-}
-@media screen and (min-width: 769px) {
-  .column-main.is-sticky,
-  .column-left.is-sticky,
-  .column-right.is-sticky,
-  .column-right-shadow.is-sticky {
-    align-self: flex-start;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0.75rem;
-  }
-  .column-right-shadow.is-sticky {
-    top: 1.5rem;
   }
 }
 .tag.is-grey {
