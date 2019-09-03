@@ -20,6 +20,9 @@ textarea {
     max-width: 1200px;
     width: 1200px;
   }
+  .is-2-column .section {
+    padding: 2rem 1.5rem;
+  }
   .is-3-column .container {
     max-width: 1200px;
     width: 1200px;
