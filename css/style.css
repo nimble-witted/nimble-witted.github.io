@@ -17,18 +17,18 @@ textarea {
 @media screen and (min-width: 1280px) {
   .is-1-column .container,
   .is-2-column .container {
-    max-width: 1152px;
-    width: 1152px;
+    max-width: 1220px;
+    width: 1220px;
   }
 }
 @media screen and (min-width: 1472px) {
   .is-2-column .container {
-    max-width: 1344px;
-    width: 1344px;
+    max-width: 1412px;
+    width: 1412px;
   }
   .is-1-column .container {
-    max-width: 960px;
-    width: 960px;
+    max-width: 1028px;
+    width: 1028px;
   }
 }
 @media screen and (max-width: 768px) {
@@ -238,10 +238,10 @@ img.thumbnail {
   display: block;
 }
 .donate:first-child:not(:last-child) .qrcode {
-  left: -3.75rem;
+  left: -0.75rem;
 }
 .donate:last-child:not(:first-child) .qrcode {
-  right: -3.75rem;
+  right: -0.75rem;
 }
 @media screen and (max-width: 768px) {
   #toc {
