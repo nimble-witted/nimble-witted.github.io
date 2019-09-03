@@ -60,7 +60,6 @@ textarea {
   overflow: hidden;
   border-top-left-radius: 4px;
   border-top-right-radius: 4px;
-  height: 0px;
 }
 img.thumbnail {
   object-fit: cover;
