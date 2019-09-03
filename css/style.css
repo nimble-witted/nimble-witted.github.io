@@ -30,6 +30,9 @@ textarea {
   .is-3-column .section {
     padding: 2rem 1.5rem;
   }
+  .is-3-column .card .card-image {
+    height: 0px;
+  }
 }
 @media screen and (min-width: 1472px) {
   .is-2-column .container {
