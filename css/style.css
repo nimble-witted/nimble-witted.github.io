@@ -17,18 +17,22 @@ textarea {
 @media screen and (min-width: 1280px) {
   .is-1-column .container,
   .is-2-column .container {
-    max-width: 1220px;
-    width: 1220px;
+    max-width: 1200px;
+    width: 1200px;
+  }
+  .is-3-column .container {
+    max-width: 1200px;
+    width: 1200px;
   }
 }
 @media screen and (min-width: 1472px) {
   .is-2-column .container {
-    max-width: 1412px;
-    width: 1412px;
+    max-width: 1392px;
+    width: 1392px;
   }
   .is-1-column .container {
-    max-width: 1028px;
-    width: 1028px;
+    max-width: 1008px;
+    width: 1008px;
   }
 }
 .tag.is-grey {
